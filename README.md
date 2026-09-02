@@ -8,15 +8,15 @@
 </p>
 
 ### About Me
-* 🎓 Applied Undergraduate with a strong interest in IT infrastructure, web development, and system operations[cite: 1].
+* 🎓 Applied Undergraduate with a strong interest in IT infrastructure, web development, and system operations
 * 💼 Experienced in web development, game development, and UI/UX[cite: 1].
-* 🚀 Passionate about building reliable web applications, optimizing systems, and continuous learning[cite: 1].
-* 📍 Located in Indonesia[cite: 1].
+* 🚀 Passionate about building reliable web applications, optimizing systems, and continuous learning
+* 📍 Located in Indonesia
 
 ### Tech Stack & Tools
-* **Languages & Frameworks:** JavaScript, React.js, Laravel, Express, C#, HTML, CSS, Tailwind CSS[cite: 1].
-* **Databases & Tools:** MySQL, MongoDB, Unity Engine, Git, VS Code, Figma, Notion, Trello[cite: 1].
-* **Core Competencies:** Web Development, IT Infrastructure, Troubleshooting (Hardware & Software), Computer Networks[cite: 1].
+* **Languages & Frameworks:** JavaScript, React.js, Laravel, Express, C#, HTML, CSS, Tailwind CSS
+* **Databases & Tools:** MySQL, MongoDB, Unity Engine, Git, VS Code, Figma, Notion, Trello
+* **Core Competencies:** Web Development, Troubleshooting (Hardware & Software), Computer Networks
 
 ---
 📫 Feel free to reach out or check out my pinned repositories below!
