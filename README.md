@@ -9,7 +9,7 @@
 
 ### About Me
 * 🎓 Applied Undergraduate with a strong interest in IT infrastructure, web development, and system operations
-* 💼 Experienced in web development, game development, and UI/UX[cite: 1].
+* 💼 Experienced in web development, game development, and UI/UX.
 * 🚀 Passionate about building reliable web applications, optimizing systems, and continuous learning
 * 📍 Located in Indonesia
 
